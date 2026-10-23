@@ -1,10 +1,4 @@
-# Sriram Nambiar
 
-I'm a Computer Science undergraduate passionate about open-source development, software engineering, and building useful software. I enjoy collaborating with developers, solving real-world problems, and contributing to projects across different open-source communities.
-
-- **GitHub:** [@Sriram-Nambiar](https://github.com/Sriram-Nambiar)
-
----
 
 # Open-Source Contributions
 
